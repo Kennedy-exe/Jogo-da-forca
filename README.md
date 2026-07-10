@@ -5,3 +5,5 @@ Simples e facil de entender, nasceu a ideia do jogo da forca interativo.
 
 Usei módulos, Padrão ASIC, Linguagem C.
 Strings, biblioteca randomizadora.
+
+Foi usado uma listagem de temas e palavras pré estabelecidas.
